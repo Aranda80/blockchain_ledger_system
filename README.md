@@ -4,7 +4,7 @@ This program builds a blockchain-based ledger system with a user-friendly web in
 
 ## Web interface with functionality and validation sample
 
-![Pychain test](pychain_test.gif)
+![Pychain test](Pychain_test.gif)
 
 
 ## Technologies
